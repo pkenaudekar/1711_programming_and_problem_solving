@@ -1,7 +1,8 @@
 /*Author: Pratik Kenaudekar
 Date Created: 16th October 2017
 Date Modified: 14th November 2017
-New feature: ncurses library*/ 
+New feature: ncurses library
+Title: Tic Tac Toa Game with AI using ncurses library*/ 
 
 #include<stdio.h>
 #include<math.h>
